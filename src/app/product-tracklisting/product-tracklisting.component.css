@@ -7,7 +7,7 @@ ul{
     list-style-type: none;
 }
 
-ul li{
+li{
     display: block;
     line-height: 30px;
 }
